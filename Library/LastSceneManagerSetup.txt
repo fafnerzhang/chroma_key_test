@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/chroma_key_shot.unity
+  isLoaded: 1
+  isActive: 1
