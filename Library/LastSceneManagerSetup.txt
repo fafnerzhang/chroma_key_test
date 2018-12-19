@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/chroma_key_shot.unity
+- path: Assets/CHROMA_KEY_WEBCAM.unity
   isLoaded: 1
   isActive: 1

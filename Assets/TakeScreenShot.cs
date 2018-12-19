@@ -27,6 +27,7 @@ public class TakeScreenShot : MonoBehaviour
 
     IEnumerator TakeShot()      //截图
     {
+        
         string date = System.DateTime.Now.ToString("yyyyMMddHHmmss");       //获得系统当前日期
         int screenWidth = Screen.width;                                     //获得屏幕宽度
         int screenHeight = Screen.height;                                   //获得屏幕高度

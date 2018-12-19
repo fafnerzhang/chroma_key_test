@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/chroma_key_shot.unity
     guid: 4ed4765f0aeb38b43a18a48899df4217
+  - enabled: 1
+    path: Assets/CHROMA_KEY_WEBCAM.unity
+    guid: d43e5128010c1b34d916987a1c6744fb
   m_configObjects: {}
